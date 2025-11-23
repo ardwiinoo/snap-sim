@@ -1,2 +1,0 @@
-driver = "postgres"
-dsn = "postgres://<your_username>:<your_password>@localhost:5432/<your_dbname>?sslmode=disable"
